@@ -3,7 +3,7 @@ from firebase_admin import credentials
 from firebase_admin import firestore
 
 # Use a service account.
-cred = credentials.Certificate('C:/Users/baker/OneDrive/Documents/BYUi/Winter 2024/CSE_310/w09/python/firestore/.venv/health-data-from-watch-af6ca002382c.json')
+cred = credentials.Certificate('health-data-from-watch-af6ca002382c.json')
 
 app = firebase_admin.initialize_app(cred)
 db = firestore.client()
