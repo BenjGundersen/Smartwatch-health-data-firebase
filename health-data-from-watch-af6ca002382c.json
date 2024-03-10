@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "health-data-from-watch",
+  "private_key_id": "af6ca002382c079c86d4b3b9b4df99bf0038e933",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfS2IJFBojt/y6\nf4Y1K9t/scWhlBEQXXXvFZ4201RkcguLG/+x0PEquFVimYgmHQ0fBSiAdZ0i/7By\njALJwvwsFX0SFGGdXMoTR+FFl2OG/EhGcEx677rSerf0/I4XLyM8CxT2ycG1z1oq\n+Ng0WLkwke1HBBOqgNmPuyMq4svwLK6ss65NbXK0JqaO0zJITp+fFHdLGZQTqTq9\n94o8XWfDxcTJM1NM61rUBeNOc5D2zePE606Mh8Kp62tlRKevNRaMSDJG7p1qtO4y\ng+s2mxABostbUUiUEIsy+7XKgYqkkdIAmFHTV8RkmsjaGf+AYTE1+Sa4bHt45B5j\ncC4ohY2rAgMBAAECggEANY6YIgNPTbfohzblEsXFLPiPpXSlLx6rlb/CpfXELR9p\ng2Eg0B6EabGy0SZwEGwxZHpRP5Z2LRnU0XShipEY+N3ilL6Mtzi1QzCfaJiqB4tl\nLnfq8CWl0qwaiUk2L3tf4RvrWFIGAzyLrPjoqo2JRYwKtFjW+rNS+3VwNu4U6jLq\nsVEIxOtkM6GaKf1MlPVCzfRW5AkrZgKyv+009eLM3NVLP/9p1ktGZOJaOzb0bLlj\n9Uwyh8oRHl6IxnujCTWSBqnjyw8G0gIlhEE6Kkta+UsbmvHUJmtn0NRxJjDLuuVD\nYP+ERHnjp3Bo3j9OQ3m6OOEbuhRvjZgLurbjjHW8mQKBgQDzECmuwUn8oar+Jcnn\n1c8SJCVSdBqCYLEnDoXVE+LPvIPqTaY+kzhKfBgeNEFfi9BGIy8d2xeKllc0ur5v\n/sx+1XwsKmy1LuX8FdSDCoW0wFmcECWORM6/S3Hbk82lbpv6xAzSahkIDNQE6oMP\npdFuXJHOpRCc9CV6r7bNM0V1pwKBgQDrLd0ausNGJF5H/MaKl/3BxWhlV7hZIG0D\nstUWOKeg+bA9H1AC1PG0eK8hywr/mq3eRq1r7PQ8LGeODn9aSHpCVsJ5CuvmCNE/\n8+SS7kkobpvKAo+G6ChOF1FGbIuSjEa+yXQKn8jOdsBcJpGBX3jRrQkBaiT5mgl8\nGS0N2EGwXQKBgHZqEWSJ1jm1qVBXqJ3BlDgKVARve9q4sJWOhbThE0aRWNL1MWCa\n6HmhKz7Lxm199+GzkmjBLB7gT2vo7o4xW/8OkogRwxQh3PmKyRVuMuV0MDPPyfwd\nmXuojbejsjQ+Rs9MY9K+zaMWXNRoS6F77yQNBRvfXtCYQQocQLqHl/dRAoGBAMf9\niX+4gGR+etp2v5OOKtGEAQHlNbQ9GddCVWh/JzWB/3gKz6yIzz4sPqnbE3BHZkGW\nEtWrfApLrIgmFfB9n9IYG2p5eh91MhRTX/X+wqGqZbrEsK8Fb3jw5UGg/pPRzDtj\n7tU2CbphS7VRavz8Zi7QGc9lJypG7nfkpOaYF0xVAoGAFOKY7cByUBU5UokKZBh5\nrAn5wRyC4aIr2c1D1rtogSw0o2Q7VE1PQx/gO+YGXv5lLM+ZNJ+KCH8pCxC339f5\nls3Td00SaS6DRSMvMDv08U6tT60XmXg0vDa53L1xFCjQvk5F9WZjxnYntxeuhe6y\n41ln7+pf7nAo3ZiX3G5TbsY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-sr3al@health-data-from-watch.iam.gserviceaccount.com",
+  "client_id": "102878708193036010217",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-sr3al%40health-data-from-watch.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
