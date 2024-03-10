@@ -5,7 +5,7 @@ I wanted to learn what kinds of things are possible though, so I decided to make
 
 Below is a video demonstration that shows the program in action. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/MGURxpHkDCM)
 
 # Cloud Database
 
