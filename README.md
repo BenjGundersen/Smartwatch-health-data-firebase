@@ -1,38 +1,36 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+For this project, I decided to look into Firestore databases using Google Firebase. This was tricky for me, becuase I am unfamiliar with both cloud things and database things.
+I wanted to learn what kinds of things are possible though, so I decided to make a simple database that contains health information from my smart watch.
 
-{Provide a description of the software that you wrote and how it integrates with a Cloud Database. Describe how to use your program.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
+Below is a video demonstration that shows the program in action. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Cloud Database
 
-{Describe the cloud database you are using.}
+I used Google Firestore which is a part of Google Firebase.
 
-{Describe the structure of the database that you created.}
+The structure of the database is very simple. There is a "collection" of "documents". The "collection," in this case, is a given calendar week; and the "documents" are individual days.
+Within the "documents," there are variables that store data. Things like calorie count, steps taken for the day, and heart beat information. 
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used the JetBrains PyCharm Professional program to code the Python segments of the program. 
 
-{Describe the programming language that you used and any libraries.}
+I also used the ```firebase-admin``` package so that I could import firebase things in the main Python file. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+Below are a couple of websites that were very helpful in doing this.
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Google Firebase](https://firebase.google.com/docs/firestore)
+- [Google Cloud](https://cloud.google.com/docs/authentication/client-libraries)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+Below are a couple of things that I would like to change or improve upon for the future. 
 
-- Item 1
-- Item 2
-- Item 3
+- Proper user input for putting information in.
+- Maybe a menu within the python code that lets the user choose what to do from a couple of options.
+- Better password system. 
